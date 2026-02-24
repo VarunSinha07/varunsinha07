@@ -141,7 +141,6 @@ VyaparFlow is a workflow and procurement automation platform built for business 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=varunsinha07&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunsinha07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
