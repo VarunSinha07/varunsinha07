@@ -2,23 +2,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Varun%20Sinha&fontSize=45&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Software Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Production+SaaS+Platforms;Backend+and+System+Design;AI+Driven+Applications;Hackathon+Finalist&center=true&width=500&height=40&color=9aa5b1">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Developer;SaaS+Developer;Building+Production+Software&center=true&width=500&height=40&color=9aa5b1">
 </p>
 
 ---
 
 ## About
 
-I am a computer science undergraduate focused on building scalable software products and production-ready web applications.
-My interests lie in backend engineering, SaaS product development, API design, and cloud-native application development.
+I am a computer science undergraduate focused on building scalable software products and production-ready web applications. My work centers around backend engineering, SaaS product development, API architecture, and cloud-native application deployment.
 
-I enjoy working across the full stack, translating product ideas into reliable software with clean architecture, secure authentication flows, and performant data-driven interfaces.
-My recent work includes multi-tenant SaaS platforms, AI-powered applications, and analytics-driven dashboards built for real-world usage.
-
-I am particularly interested in product engineering, distributed backend services, and building developer-friendly platforms that prioritize performance, usability, and maintainability.
+I enjoy translating product ideas into reliable software with secure authentication flows, efficient data handling, and responsive user interfaces. My recent projects involve multi-tenant SaaS platforms, workflow automation tools, and analytics-driven dashboards designed for real-world usage.
 
 ---
 
@@ -28,79 +24,85 @@ I am particularly interested in product engineering, distributed backend service
 
 Praksat is a multi-tenant SaaS platform designed for air quality forecasting and analytics.
 
-Key contributions:
+**Highlights**
 
-* Credit-based API monetization model with automated usage tracking
+* Credit-based API monetization with automated usage tracking
 * Secure API gateway with authentication, rate limiting, and API key management
 * Real-time dashboards with time-series visualization and data export
-* Multi-database architecture with scalable data ingestion pipelines
+* Multi-database architecture with scalable ingestion pipelines
 * Observability stack using Prometheus, Grafana, and Loki
 * Containerized deployment with Docker and reverse proxy architecture
 
-**Stack:** Next.js, FastAPI, PostgreSQL, Redis, Prisma, Docker
+**Stack:** Next.js • FastAPI • PostgreSQL • Redis • Prisma • Docker
+**Repository:** https://github.com/varunsinha07/PS2-SIH25
 
 ---
 
 ### VyaparFlow — Workflow Automation SaaS
 
-VyaparFlow is a business workflow and procurement automation platform.
+VyaparFlow is a workflow and procurement automation platform built for business operations.
 
-Key contributions:
+**Highlights**
 
 * Role-based access architecture for enterprise workflows
 * Subscription and payment integration for SaaS monetization
 * Analytics dashboard with operational insights and usage tracking
-* API-driven architecture enabling external integrations
+* API-driven architecture enabling integrations
 * Scalable backend with real-time data pipelines
 
-**Stack:** Next.js, Node.js, PostgreSQL, Redis, Razorpay
+**Stack:** Next.js • Node.js • PostgreSQL • Redis • Razorpay
+**Repository:** https://github.com/varunsinha07/vyaparSetu
 
 ---
-
-## Experience
-
-**Backend Developer Intern — NIT Hamirpur (Remote)**
-Developed an AI-powered e-waste classification platform using deep learning techniques, improving prediction accuracy and optimizing backend data pipelines and API integrations.
-
-**Full Stack Developer Intern — IFIA Bharat Chapter (Remote)**
-Led development of the official IFIA Bharat web application, improving performance and responsiveness while establishing deployment workflows and production-ready infrastructure with high application uptime.
-
-
----
-
 ## Technical Skills
 
-**Languages**
-JavaScript • TypeScript • Python • C++
+### Languages
 
-**Frontend**
-React • Next.js • Tailwind CSS • HTML • CSS
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+</p>
 
-**Backend**
-Node.js • Express • FastAPI
+### Frontend
 
-**Databases**
-PostgreSQL • MongoDB • Redis
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
-**Infrastructure**
-Docker • Kubernetes • Nginx
+### Backend
 
-**Observability**
-Prometheus • Grafana • Loki
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-**Tools**
-Git • GitHub • API Design • Authentication
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" />
+</p>
+
+### Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+**Other:** API Design • Authentication
 
 
 ---
 
-## Achievements
-
-* Smart India Hackathon Finalist (ISRO problem statement)
-* First Runner-Up, Full Stack Development Hackathon — VIT Chennai
-* NPTEL Big Data Computing — Gold + Elite Top 1%
-
----
 
 ## GitHub Activity
 
