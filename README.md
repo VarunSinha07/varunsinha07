@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Varun%20Sinha&fontSize=45&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Full Stack Developer</h2>
+<h2 align="center">Software Developer</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Developer;SaaS+Developer;Building+Production+Software&center=true&width=500&height=40&color=9aa5b1">
