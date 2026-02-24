@@ -118,6 +118,21 @@ VyaparFlow is a workflow and procurement automation platform built for business 
 **Other:** API Design • Authentication • Loki
 
 
+---
+
+
+## Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/varunsinha20">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:varunsinha2604@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
 
 ---
 
@@ -126,19 +141,13 @@ VyaparFlow is a workflow and procurement automation platform built for business 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=varunsinha07&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunsinha07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=varunsinha07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsinha07&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## Contact
-
-LinkedIn: https://linkedin.com/in/varunsinha20
-Email: [varunsinha2604@gmail.com](mailto:varunsinha2604@gmail.com)
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=footer"/>
