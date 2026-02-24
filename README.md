@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Varun%20Sinha&fontSize=45&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Full Stack Engineer • SaaS Builder • AI Developer</h2>
+<h2 align="center">Software Developer</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Production+SaaS+Platforms;Backend+and+System+Design;AI+Driven+Applications;Hackathon+Finalist&center=true&width=500&height=40&color=9aa5b1">
@@ -12,10 +12,13 @@
 
 ## About
 
-I am a computer science undergraduate at SRM Institute of Science and Technology with a strong interest in building scalable SaaS platforms and backend systems.
-My work focuses on product engineering, system design, API architecture, and infrastructure required for production-grade applications.
+I am a computer science undergraduate focused on building scalable software products and production-ready web applications.
+My interests lie in backend engineering, SaaS product development, API design, and cloud-native application development.
 
-I have experience developing AI-driven systems, multi-tenant SaaS platforms, and real-time analytics dashboards, along with exposure to observability and deployment pipelines.
+I enjoy working across the full stack, translating product ideas into reliable software with clean architecture, secure authentication flows, and performant data-driven interfaces.
+My recent work includes multi-tenant SaaS platforms, AI-powered applications, and analytics-driven dashboards built for real-world usage.
+
+I am particularly interested in product engineering, distributed backend services, and building developer-friendly platforms that prioritize performance, usability, and maintainability.
 
 ---
 
@@ -56,20 +59,38 @@ Key contributions:
 
 ## Experience
 
-**Backend Developer Intern — NIT Hamirpur**
-Developed an AI-powered e-waste classification system using deep learning techniques, improving classification accuracy and optimizing backend data pipelines and API integrations.
+**Backend Developer Intern — NIT Hamirpur (Remote)**
+Developed an AI-powered e-waste classification platform using deep learning techniques, improving prediction accuracy and optimizing backend data pipelines and API integrations.
+
+**Full Stack Developer Intern — IFIA Bharat Chapter (Remote)**
+Led development of the official IFIA Bharat web application, improving performance and responsiveness while establishing deployment workflows and production-ready infrastructure with high application uptime.
+
 
 ---
 
 ## Technical Skills
 
-**Languages:** JavaScript, TypeScript, Python, C++
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express, FastAPI
-**Databases:** PostgreSQL, MongoDB, Redis
-**Infrastructure:** Docker, Kubernetes, Nginx
-**Observability:** Prometheus, Grafana, Loki
-**Other:** Git, System Design, API Architecture
+**Languages**
+JavaScript • TypeScript • Python • C++
+
+**Frontend**
+React • Next.js • Tailwind CSS • HTML • CSS
+
+**Backend**
+Node.js • Express • FastAPI
+
+**Databases**
+PostgreSQL • MongoDB • Redis
+
+**Infrastructure**
+Docker • Kubernetes • Nginx
+
+**Observability**
+Prometheus • Grafana • Loki
+
+**Tools**
+Git • GitHub • API Design • Authentication
+
 
 ---
 
